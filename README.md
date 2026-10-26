@@ -147,6 +147,8 @@ current rate for your plan is on the [Actor page](https://apify.com/glitchbound/
 - [App Store & Google Play Reviews Scraper](https://apify.com/glitchbound/app-reviews-scraper): every review for an app, both stores.
 - [ASO Keyword Rank Tracker](https://apify.com/glitchbound/aso-keyword-rank-tracker): where an app ranks for a keyword in both stores.
 
+- Write-up: [App Store top charts API: Apple's free chart feeds by country, and five traps](https://dev.to/glitchbound/app-store-top-charts-api-apples-free-chart-feeds-by-country-and-five-traps-3cgi).
+
 Questions or a chart that looks wrong? Open an issue here or on the Actor page.
 
 ## License
