@@ -132,7 +132,9 @@ Pass several `countries` in one run; each country, chart and category combinatio
 back in the same dataset.
 
 **Is the Mac App Store included?**
-No. Apple's feeds in this format cover iPhone and iPad only.
+No. Apple serves a Top Free Mac Apps feed in the same format, but its Top Paid and Top
+Grossing Mac feeds came back empty, so the Mac is left out rather than offered as one chart
+of three.
 
 **What does it cost?**
 It is paid per chart row; rows for charts that could not be read are not charged. The
