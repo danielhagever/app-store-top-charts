@@ -1,0 +1,7 @@
+{
+  "countries": ["us"],
+  "charts": ["new-free"],
+  "categories": ["all"],
+  "limit": 50,
+  "includeDetails": true
+}
