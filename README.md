@@ -72,6 +72,10 @@ In Cursor or VS Code, the same address goes in `mcp.json`:
 The first call asks you to sign in to Apify or takes an API token. Then "what are the top
 grossing games in Japan right now?" is one tool call.
 
+It is also listed in the official MCP Registry as
+[`io.github.danielhagever/app-store-charts`](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.danielhagever%2Fapp-store-charts/versions/latest),
+together with the Google Play charts tool ([`server.json`](server.json)).
+
 ## Input
 
 | Field | What it does |
