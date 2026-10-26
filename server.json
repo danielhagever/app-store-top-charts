@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.danielhagever/app-store-charts",
+  "title": "App Store and Google Play Top Charts",
+  "description": "Top Free, Paid and Grossing app charts by country for the App Store and Google Play, with rank moves",
+  "version": "1.0.0",
+  "websiteUrl": "https://apify.com/glitchbound/app-charts-scraper",
+  "repository": {
+    "url": "https://github.com/danielhagever/app-store-top-charts",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=glitchbound/app-charts-scraper,glitchbound/google-play-charts-scraper",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Apify API token, as 'Bearer <apify-api-token>'. Free at console.apify.com/settings/integrations.",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
